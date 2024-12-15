@@ -2,7 +2,7 @@
 A Student Fee Collection System that uses SQLite as database, written in PHP
 
 ## Notice
-This is just the same as (https://github.com/jhzrmx/CITreasury)[CITreasury] in my repository. Probably will be abandoned in the future.
+This is just the same as [CITreasury](https://github.com/jhzrmx/CITreasury). in my repository. Probably will be abandoned in the future.
 
 ## Screenshots:
 <img src="img/citreasury-dashboard.png" width="100%">
